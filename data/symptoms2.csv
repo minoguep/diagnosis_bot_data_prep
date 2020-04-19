@@ -1,0 +1,390 @@
+_id,chief_complaint_id,chief_complaint_name_id,name,reason_code,life_threatening,msp_enabled,primary_complaint,diagnosis_count
+1,1,1,Upper abdominal pain,15453,0,1,1,44
+2,1,2,Upper belly pain,15453,0,1,,44
+4,2,4,Lower abdominal pain,15452,0,1,1,48
+5,2,5,Lower belly pain,15452,0,1,,48
+6,3,6,Abscess (Collection of pus),,,,,17
+7,3,7,Boil (Furuncle),,,,,17
+8,4,8,Alcohol abuse,11450,0,1,1,15
+9,4,9,Excessive drinking,11450,0,1,,15
+10,5,10,Anxiety (Nervousness),11000,0,1,,32
+11,5,11,Panic attack,11000,0,1,,32
+12,5,12,Nervousness,11000,0,1,,32
+13,6,13,Arm ache or pain,19451,0,1,1,59
+14,7,14,Back ache or pain,19051,0,1,1,66
+16,7,16,Spinal pain,19051,0,1,,66
+17,8,17,Bleeding tendency,,,,,19
+18,8,18,Easy bruising,,,,,19
+19,8,19,Spontaneous bleeding,,,,,19
+20,9,20,Blood in vomit,15802,0,1,,25
+21,9,21,Vomiting blood,15802,0,1,1,25
+22,10,22,Bloody diarrhea,,,,,21
+24,11,24,Pain or soreness of breast,18000,0,0,1,21
+25,12,25,Calf pain,,,,,18
+26,12,26,Lower leg pain,,,,,18
+28,13,28,Chest pressure,10502,1,1,,39
+30,14,30,Chills,10050,0,1,1,23
+31,14,31,Shakes,10050,0,1,,23
+32,14,32,Rigors,10050,0,1,,23
+33,15,33,Change in behavior,11650,1,1,1,57
+36,16,37,Constipation,15900,0,1,1,27
+37,16,38,Decreased stools,15900,0,1,,27
+38,17,39,Cough,14400,0,1,1,36
+39,18,40,Dark stools,,,,,15
+40,18,41,Black stools,,,,,15
+41,19,43,Depressed,11100,0,1,1,29
+42,20,44,Diarrhea,15950,0,1,1,33
+43,21,45,Dizziness,12250,0,1,1,75
+44,21,46,Lightheaded,12250,0,1,0,75
+45,22,47,Double vision (Diplopia),,,,,18
+47,23,49,Ear pressure,13650,0,1,1,21
+48,24,50,Pain in the ear,13551,0,1,1,39
+49,25,51,Elbow ache or pain,19501,0,1,1,31
+50,26,52,Eye pain (Irritation),,,,,27
+51,27,53,Facial pain,10460,0,1,,15
+52,28,54,Fainting,10300,0,1,1,47
+53,28,55,Fainting spells,10300,0,1,0,47
+54,28,56,Passing out,10300,0,1,0,47
+55,29,57,Fever,10100,0,1,1,47
+56,29,58,Elevated temperature,10100,0,1,,47
+57,30,59,Fever in the returning traveler,,,,,35
+58,31,60,Fever of unknown origin,,,,,14
+59,32,61,Flank pain,16701,0,1,,26
+60,32,62,Side pain,16701,0,1,,26
+61,33,63,Frequent urination (Frequency),16450,0,0,,15
+63,35,65,Foot pain,,,,,27
+64,36,66,"Cranky, crying, fussy, irritable child",10801,0,1,1,32
+66,37,68,Groin pain,10552,0,1,1,45
+67,38,69,Delusions or hallucinations,11550,1,1,1,18
+68,39,70,"Hand, finger ache or pain",19601,0,1,1,50
+69,40,71,Head injury,,,,,20
+70,41,72,Headache,12100,0,1,1,71
+71,41,73,Head pain,12100,0,1,,71
+72,42,74,Heel pain,,,,,9
+73,43,75,Heat illness,,,,,10
+76,45,78,Hip pain,,,,,25
+77,46,79,Hives,,,,,8
+78,46,80,Urticaria (Hives),,,,,8
+79,47,81,Hoarse voice,,,,,16
+80,48,82,Hypothermia (Low temperature),,,,,8
+81,48,83,Low temperature,,,,,8
+82,49,84,Incontinence (leaking urine),16551,0,1,1,21
+83,49,85,Leaking urine,16551,0,1,,21
+84,50,86,Insect sting,,,,,13
+85,50,87,Insect bite,,,,,13
+86,51,88,Insomnia (Trouble sleeping),11351,0,1,1,26
+88,52,90,Skin itching,18702,0,1,1,39
+89,53,91,Joint pain,,,,,24
+90,54,92,Kidney pain (Flank pain),16701,0,1,1,25
+91,55,93,Knee pain,19251,0,1,,21
+92,56,94,Laceration,,,,,17
+93,57,95,Leg ache or pain,19201,0,1,1,62
+94,58,96,Swelling of both legs,10351,0,0,0,27
+95,58,97,Lower extremity edema (swelling),10351,0,0,,27
+96,59,98,Lethargy (Sluggishness),,,,,21
+98,61,100,Mouth pain,,,,,17
+99,62,101,Muscle pain,,,,,21
+100,62,102,Muscle aches,,,,,21
+101,63,103,Nail Injury,,,,,4
+102,64,104,Nasal bleeding,14051,0,1,,24
+103,64,105,Bloody nose (epistaxis),14051,0,1,1,24
+104,65,106,Nasal injury,,,,,5
+105,66,107,Nausea,15250,0,1,1,56
+106,67,108,Neck ache or pain,19001,0,1,1,42
+107,68,109,Neck swelling,,,,,13
+108,68,110,Neck mass,,,,,13
+109,69,111,Numbness,,,,,36
+110,69,112,Tingling,,,,,36
+111,69,113,Paresthesias (Numbness),,,,,36
+112,70,114,Obesity,10400,0,1,,16
+113,70,115,Overweight,10400,0,1,1,16
+114,71,116,Overdose,,,,,15
+115,72,117,Painful urination,16500,0,1,1,18
+116,73,118,Heart pulsations and palpitations,12600,0,0,1,19
+117,73,119,Skipped heart beat,12600,0,0,,19
+118,74,120,Pelvic pain,,,,,15
+119,75,121,Penile discharge,17050,0,1,,9
+120,76,122,Penis pain,17001,0,0,1,6
+121,77,123,Poisoning,,,,,23
+122,78,124,Pregnancy problem,,,,,11
+123,79,125,Psychiatric problem,,,,,25
+124,80,126,Puncture wound,,,,,15
+125,81,127,Rash,18600,0,1,,62
+126,82,128,Rectal pain,16051,0,0,1,18
+127,83,129,Rectal swelling,,,,,7
+130,85,132,Scrotal pain,17151,0,1,,10
+131,86,133,Scrotal swelling,,,,,12
+132,87,134,Seizure,12050,0,0,,40
+133,88,135,Shortness of breath,14150,1,1,1,75
+135,89,138,Shoulder ache or pain,19401,0,1,1,19
+136,90,139,Sinus pain and pressure,14101,0,0,1,7
+138,91,141,Skin trauma,,,,,6
+139,92,142,Snake bite,,,,,3
+140,93,143,Sore throat,14551,0,1,1,32
+141,94,144,Speech problem,,,,,34
+142,94,145,Trouble speaking,,,,1,34
+143,94,146,Aphasia (Trouble speaking),,,,,34
+144,95,147,Spider bite,,,,,6
+145,96,148,Substance abuse (Drug abuse),11500,0,1,,21
+146,97,149,Suicidal tendencies,,,,,4
+147,98,150,Swallowing problem (Dysphagia),,,,,28
+148,99,151,Swelling,,,,,16
+149,100,152,Toe pain,,,,,19
+150,101,153,Tooth pain,,,,,8
+151,101,154,Dental problem,,,,,8
+152,102,155,Trauma,,,,,9
+153,103,156,Traveler's diarrhea,,,,,8
+154,104,157,Unsteady gait (Trouble walking),10950,0,0,,29
+155,105,158,Vaginal bleeding,17550,0,0,,18
+156,106,159,Vaginal bleeding after menopause,,,,,7
+157,107,160,Vaginal bleeding during pregnancy,,,,,7
+158,108,161,Vaginal discharge,17600,0,1,,20
+159,109,162,Vaginal itching,,,,,5
+160,110,163,Vaginal pain,,,,,11
+161,111,164,Vertigo (Room spinning),,,,,19
+162,111,165,Spinning,,,,,19
+163,112,167,Visual problems,13052,0,0,,56
+164,112,168,Loss of vision (Blindness),13052,0,0,,56
+165,113,169,Vomiting,15300,0,1,1,59
+166,114,170,General weakness,10200,0,0,1,18
+167,115,171,Weakness (Muscle localized),,,,,26
+168,116,172,Tired,10150,0,0,1,50
+170,118,175,Wrist pain,,,,,19
+179,120,185,Throat pain,14551,0,1,,29
+180,121,186,Tremors,12000,0,1,0,34
+182,123,188,"Weight loss, unexplained",,,,,35
+184,28,191,Loss of consciousness,10300,0,1,0,47
+185,85,192,Testicle pain,17151,0,1,1,10
+188,19,195,Sadness,11100,0,1,,29
+189,126,196,Tongue swelling,,,,,7
+192,128,200,Inconsolable baby,,,,,16
+193,129,201,Wheezing (Noisy breathing),14250,0,0,1,12
+195,131,203,Swollen lymph nodes (Large lymph nodes),,,,,16
+196,132,204,Failure to thrive,,,,,13
+200,136,208,Behavioral problem,11650,0,0,1,20
+203,139,211,Itchy rash (Pruritic rash),,,,,29
+204,70,212,Weight gain,10400,0,1,,16
+205,145,219,Headache after trauma,,,,,13
+206,146,220,Learning difficulties,,,,,19
+207,147,221,Blood in urine (Hematuria),16401,0,1,1,16
+208,148,222,Urinary retention (Inability to urinate),,,,,15
+209,149,223,Liver failure (Cirrhosis),,,,,12
+210,150,224,Choking,,,,,6
+212,152,226,Painful rash,,,,,8
+213,51,227,Sleeping problem,11351,0,1,,26
+214,56,228,Cuts,,,,,17
+215,153,230,Ingestion,,,,,20
+217,155,232,Melena (Black stools from blood),,,,,12
+218,156,233,Vomiting coffee ground material,,,,,14
+219,157,234,Ringing in ears (Tinnitus),,,,,9
+220,158,235,Mouth ulcers,,,,,10
+221,159,236,Mouth swelling,,,,,13
+222,160,237,Eye redness,,,,,18
+223,162,240,Sneezing,,,,,8
+224,163,241,Bleeding gums,,,,,13
+225,164,242,Loss of balance,,,,,24
+226,164,243,Incoordination,,,,,24
+227,164,244,Ataxia (Incoordination),,,,,24
+228,164,245,Loss of coordination,,,,,24
+229,94,246,Slurred speech,,,,,34
+230,165,247,Bleeding in brain,,,,,11
+234,112,251,Blurry vision,13052,0,0,,56
+235,170,252,Cyanosis (Blue skin coloration),,,,,27
+466,171,253,Muscle spasm,,,,,16
+467,171,254,Muscle cramps,,,,,16
+468,172,255,Drooling,,,,,22
+469,173,256,Abdominal swelling (Stomach swelling),,,,,30
+470,174,257,Skin growths,,,,,13
+472,176,259,Hand numbness (paresthesias),,,,,28
+473,177,260,Ankle pain,,,,,17
+474,178,261,Hemoptysis (Coughing blood),,,,,16
+475,179,262,Jaundice (Yellowing skin),,,,,21
+479,180,266,Night sweats,,,,,12
+480,181,267,Flatulence (Passing gas),,,,,10
+482,183,269,Blister (Pocket of fluid),,,,,16
+496,186,270,Hair loss (Baldness),,,,,4
+497,187,271,Jaw pain,,,,,16
+498,188,272,Impotence,,,,,17
+501,189,275,Heart murmur (Abnormal heart sound),,,,,16
+502,173,276,Bloating,,,,,30
+503,160,277,Blood shot eyes,,,,,18
+504,160,278,Red eyes,,,,,18
+505,173,279,Abdominal distension,,,,,30
+506,173,280,Protruding abdomen,,,,,30
+507,173,281,Bulging abdomen,,,,,30
+509,190,283,Pustule (Collection of pus),,,,,8
+510,191,284,Skin pain,,,,,19
+511,191,285,Painful skin,,,,,19
+512,191,286,Sore skin,,,,,19
+513,192,287,Hot skin,,,,,12
+514,192,288,Warm skin,,,,,12
+515,193,289,Skin swelling,,,,,14
+516,193,290,Swollen skin,,,,,14
+517,194,291,Lip swelling,,,,,14
+518,194,292,Swollen lip,,,,,14
+519,195,293,Eye swelling,,,,,12
+520,195,294,Swollen eye,,,,,12
+521,159,295,Swollen mouth,,,,,13
+522,58,296,Pedal edema,10351,0,0,,27
+524,196,298,Foot swelling,,,,,22
+525,196,299,Swollen foot,,,,,22
+526,197,300,Visual flashing lights,,,,,8
+527,197,301,Flashes of light,,,,,8
+528,198,302,Eye floaters,,,,,5
+529,72,303,Burning with urination,16500,0,1,,18
+530,72,304,Stinging urination,16500,0,1,,18
+531,65,305,Nose injury,,,,,5
+532,8,306,Bruising,,,,,19
+534,170,308,Blue skin tone,,,,,27
+535,26,309,Irritated eyes,,,,,27
+536,27,310,Face pain,10460,0,1,1,15
+538,181,312,Gas,,,,,10
+543,178,317,Coughing blood,,,,,16
+544,51,318,Trouble sleeping,11351,0,1,,26
+545,179,319,Yellow skin,,,,,21
+546,59,320,Sluggishness,,,,,21
+547,64,321,Nose bleed,14051,0,1,,24
+548,180,322,Sweating at night,,,,,12
+549,190,323,Collection of pus,,,,,8
+551,96,325,Drug abuse,11500,0,1,1,21
+552,104,326,Difficulty with walking,10950,0,0,1,29
+553,112,327,Blindness,13052,0,0,,56
+554,113,328,Throwing up,15300,0,1,,59
+555,199,329,Amenorrhea (No menstruation),17300,0,0,,19
+556,200,330,Blurry vision,,,,0,9
+558,202,332,Painful gums,,,,,11
+559,202,333,Gum pain,,,,,11
+560,203,334,Swollen gums,,,,,11
+561,203,335,Gum swelling,,,,,11
+562,204,336,Low blood sugar,,,,0,13
+564,205,338,Low blood pressure,,,,0,21
+566,206,340,Darkening of the skin (Hyperpigmentation),,,,,15
+567,206,341,Hyperpigmentation (Darkening skin),,,,,15
+568,206,342,Skin darkening,,,,,15
+569,207,343,Low heart rate,,,,,11
+570,207,344,Slow heart rate (Bradycardia),,,,,11
+571,207,345,Bradycardia (Slow heart rate),,,,,11
+572,208,346,Foot itching,,,,,29
+573,208,347,Itching feet,,,,,29
+574,209,348,Hot flashes,,,,,9
+578,199,352,Missed periods,17300,0,0,,19
+579,199,353,Irregular periods (Irregular menses),17300,0,0,,19
+580,199,354,Skipped periods,17300,0,0,,19
+581,211,355,Infertility (Female),,,,,13
+582,211,356,Sterility (female),,,,,13
+583,212,357,Increased facial hair,,,,,6
+586,88,360,Out of breath,14150,1,1,0,75
+589,213,363,Arm swelling,19455,0,0,1,16
+590,214,364,Calf swelling,19205,0,0,,19
+591,214,365,Leg swelling,19205,0,0,1,19
+594,216,368,Ear swelling,,,,,7
+595,217,369,Wrist swelling,19605,0,0,,18
+597,18,371,Tarry stools,,,,,15
+599,218,373,Maroon stools,15801,0,1,,16
+600,22,374,Diplopia (Seeing double),,,,,18
+603,219,377,Arm cut (laceration),,,,,7
+604,220,378,Hand cut (laceration),,,,,7
+605,221,379,Leg cut (laceration),,,,,7
+606,222,380,Foot cut (laceration),,,,,7
+609,225,383,Arm itching,,,,,27
+610,226,384,Hand redness,,,,,36
+611,227,385,Foot redness,,,,,40
+612,228,386,Arm redness,,,,,36
+613,229,387,Leg redness,,,,,37
+614,230,388,Hand itching,,,,,29
+615,231,389,Leg itching,,,,,29
+616,232,390,Steatorrhea (Excess fat in stool),,,,,10
+617,233,391,Upper leg pain,,,,,26
+618,233,392,Thigh pain,,,,,26
+619,234,393,Armpit pain,,,,,16
+620,234,394,Axillary pain,,,,,16
+621,235,395,Sweating,,,,,17
+622,236,396,Nasal congestion,14000,0,1,,15
+624,236,398,Stuffy nose,14000,0,1,,15
+627,237,399,Joint stiffness,,,,,14
+628,238,400,Skin sores,18650,0,1,,63
+629,238,401,Skin ulcers,18650,0,1,,63
+631,239,403,Chest burning,,,,,29
+632,240,404,Memory loss,,,,,31
+633,240,405,Loss of memory,,,,,31
+634,241,406,Arm numbness (paresthesias),,,,,26
+635,242,407,Leg numbness (paresthesias),,,,,26
+636,243,408,Foot numbness (paresthesias),,,,,26
+637,244,409,Face numbness (paresthesias),,,,,13
+639,186,411,Alopecia (Hair loss),,,,,4
+640,232,412,Fatty stools,,,,,10
+641,246,413,Dementia,,,,,17
+642,247,414,Facial droop (weakness),,,,,14
+643,248,415,Limping in a child,,,,,10
+644,248,416,Childhood limping,,,,,10
+645,249,417,Increased thirst,,,,,7
+646,250,418,Increased urination (polyuria),,,,,8
+647,251,419,Shin pain,,,,,12
+648,252,420,Stings,,,,,5
+650,254,422,Sleep disorders,11350,0,0,,7
+652,255,424,Drooping eyelid (Ptosis),,,,,15
+653,255,425,Ptosis (Drooping eyelid),,,,,15
+655,257,427,Snoring,14301,0,0,1,11
+656,62,428,Body aches,,,,,21
+657,66,429,Upset stomach,15250,0,1,,56
+658,158,430,Mouth sore,,,,,10
+659,258,431,Dry skin,18802,0,0,,15
+660,259,432,Itchy eyes,,,,,5
+661,218,433,Blood in stool,15801,0,1,1,16
+662,238,434,Skin lesion,18650,0,1,1,63
+663,13,435,"Chest tightness, heaviness or pressure",10502,1,1,1,39
+664,261,436,Elbow swelling,19505,0,0,1,19
+665,262,437,Chest pain,10501,1,1,1,84
+666,263,438,Skin infection,18400,0,1,1,18
+667,264,439,Stomach and abdominal pain,15450,0,1,1,72
+668,19,440,Feeling down,11100,0,1,0,29
+669,19,441,Unhappy,11100,0,1,0,29
+670,116,442,Fatigue,10150,0,0,0,50
+671,265,443,Anger,11150,0,0,1,11
+672,265,444,Bitterness,11150,0,0,0,11
+675,81,447,Skin rash,18600,0,1,1,62
+678,58,450,Swelling of both ankles,10351,0,0,1,27
+679,269,451,Hurts to breathe,14300,0,0,1,17
+680,270,452,Difficulty breathing,14200,0,0,1,24
+681,270,453,Breathing stopped,14200,0,0,0,24
+682,271,454,Pulling at ears,13653,0,0,1,9
+683,258,455,"Dryness, peeling or scaly skin",18802,0,0,1,15
+684,272,456,Skin bumps,18750,0,0,1,17
+685,21,457,Room spinning,12250,0,1,0,75
+686,273,458,Congestion in chest or lungs,14750,0,0,1,16
+687,17,459,Croupy cough,14400,0,1,0,36
+688,17,460,Smoker's cough,14400,0,1,0,36
+689,274,461,Discharge from ear,13500,0,0,1,6
+690,275,462,Low back ache or pain,19101,0,1,1,55
+691,87,463,Convulsions,12050,0,0,1,40
+692,15,464,Behavioral disturbances,11650,1,1,0,57
+694,277,466,Unusual color or odor of urine,16403,0,0,1,25
+697,20,469,Loose stools,15950,0,1,0,33
+699,281,471,Penis inflammation or swelling,17002,0,0,1,11
+700,282,472,Excessive appetite,15701,0,0,1,16
+702,284,474,Retaining fluid,10350,0,0,1,11
+703,39,475,Hand pain,19601,0,1,0,50
+704,39,476,Finger pain,19601,0,1,0,50
+706,217,478,"Hand, finger swelling",19605,0,0,1,18
+707,121,479,Shaking,12000,0,1,1,34
+708,121,480,Twitching,12000,0,1,0,34
+710,257,482,Abnormal breathing sounds,14301,0,0,0,11
+713,287,485,Lump or mass of breast,18050,0,1,1,18
+716,113,488,Dry heaves,15300,0,1,0,59
+717,113,489,Can't keep food down,15300,0,1,0,59
+718,290,490,Neck stiffness or tightness,19003,0,0,1,14
+719,236,491,Runny nose,14000,0,1,1,15
+720,291,492,Agitated,11300,0,0,1,20
+721,292,493,Confusion,,,,1,50
+722,292,494,Altered mental status (confusion),,,,0,50
+723,292,495,Decreased mental status,,,,0,50
+724,36,496,Crying baby,10801,0,1,0,32
+725,293,497,Headache and weakness,,,,1,23
+726,294,498,Confusion and headache,,,,1,27
+727,295,499,Nipple discharge,,,,1,14
+729,301,501,Shoulder stiffness or tightness,19403,0,0,1,17
+731,303,503,Arm stiffness or tightness,19453,0,0,1,14
+733,116,505,Lack of energy,10150,0,0,0,50
+737,200,509,Trouble seeing,,,,0,9
+738,304,510,High blood pressure,,,,1,30
+740,306,512,High blood sugar,,,,1,19

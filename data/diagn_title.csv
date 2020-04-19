@@ -1,0 +1,1315 @@
+id,title
+"2","Abdominal swelling"
+"3","Abdominal trauma"
+"4","Abrasions (scrapes)"
+"5","ACE inhibitor induced coughblood pressure medication side effectDrug-induced coughDrug reaction: ACE inhibitor"
+"6","acetaminophen overdoseAdverse reaction to acetaminophen"
+"7","Tylenol acetaminophen poisoning"
+"9","Achilles tendon rupture(heel tendon tear)"
+"10","Acid LSD abuse"
+"15","Acute fatty liver of pregnancy"
+"16","Adenoiditis(a type of lymph node inflammation)"
+"22","Alcohol ethanol poisoning (overdose)"
+"24","Alcoholic ketoacidosisAlcohol induced ketoacidosis (complication of heavy alcohol use)"
+"26","Allergic reaction"
+"28","Allergy"
+"31","Altitude illnessIllnesses due to high altitude effects"
+"33","Amphetamine abuse"
+"34","Amphetamine overdose"
+"37","Anaphylactoid reactions (pseudo allergic reaction)"
+"38","Anaphylaxis(severe/life threatening allergic reaction)"
+"40","Ankle laceration (cut in skin)"
+"41","Ankle swelling"
+"43","Anophelesmosquito bite"
+"47","Ant bite"
+"48","Anticholinergic drug overdose"
+"49","Antidepressant overdose"
+"52","Aortic valve stenosistight heart valve"
+"57","Arm lacerationskin cut"
+"58","Arm swelling"
+"60","Arteriovenous malformationblood vessel abnormality, AVM"
+"61","Arthritisjoint inflammation"
+"64","Aspirinsalicylates overdose"
+"66","Atopic dermatitiseczema"
+"70","Autoimmune conditions"
+"71","Autoimmune disease"
+"72","Avulsionsforcible tissue detachment"
+"74","Bacterial dysenterybacterial infection of the intestines"
+"77","Bacterial vaginosisvaginal infection"
+"79","Balanitispenis swelling"
+"81","Bartholin abscess or cystsac of pus near the vaginal opening"
+"84","Beta blocker overdoseblood pressure medication overdose"
+"86","Bee stingwasp sting"
+"89","Benign prostatic hyperplasiaprostate enlargement"
+"90","BenzodiazepineValium abuse"
+"91","BenzodiazepineValium overdose"
+"92","BenzodiazepineValium toxicity"
+"94","Black widow spider bite"
+"109","Breast cancertumor"
+"111","Breast fibroadenomabenign breast lumps"
+"114","Bronchiolitisbronchial tube inflammation"
+"116","Brown recluse spider bite"
+"119","Burning mouth syndrome"
+"121","Bursitisinflammation of joint cushion"
+"122","Caffeine use"
+"123","Calcium channel blocker overdoseblood pressure medication overdose"
+"124","Calluses and corns"
+"128","Carbon monoxide poisoningodorless, poisonous gas"
+"132","Carotid cavernous fistulaabnormal blood vessel communication"
+"135","Cavernous sinus aneurysmhead vein dilation"
+"137","Cavernous sinus tumorhead vein cancer"
+"140","Cellulitisskin infection"
+"142","Cerebellar hemorrhagebleeding in back of brain"
+"144","Cerebral contusionbruise of brain"
+"146","Cerebral vascular accidentstroke"
+"150","Cervical lymphadenopathyenlarged neck lymph nodes"
+"151","Cervical radiculopathypinched nerve in neck"
+"152","Cervical spine fracturebroken neck bone"
+"159","Child abuse"
+"161","Chlorine bleach ingestion"
+"164","Choledocholithiasisstone in bile duct"
+"168","Chronic fatigue syndromeCFS"
+"172","Cirrhosisliver failure and scarring"
+"173","Cluster headacheone-sided headache behind the eye"
+"176","Cocaine overdose"
+"179","Colonic diverticulitisinflammation of pouches in the large intestine"
+"182","Common spider bitespider bite"
+"183","Compartment syndromeincreased pressure inside muscles"
+"188","Contact dermatitiscontact skin irritation"
+"189","Poison ivypoison oak, poison sumac"
+"192","Corneal abrasionscrape on eye"
+"194","Coronary artery dissectionheart artery tear"
+"196","Cough medicine abuse"
+"197","Crohn's diseaseregional enteritis, Crohn's colitis, intestinal inflammation"
+"198","Cryptosporidium infectiondiarrheal parasite infectionInfection by CryptosporidiumCryptosporidiosis infectionInfection by Cryptosporidium parvum"
+"201","Cystocelebladder hernia"
+"204","Deep venous thrombosisDVT, venous blood clot"
+"210","Dental eruptionappearance of new tooth"
+"211","Dentures"
+"213","Diabeteshigh blood sugar"
+"214","Diabetes mellitus type 2elevated blood sugar"
+"217","Benadryldiphenhydramine overdose"
+"218","Diphtheria infectionbacterial respiratory infection"
+"219","Discitisspinal disk inflammation"
+"220","Dislocationjoint out of place"
+"223","Unisom overdosedoxylamine overdose"
+"225","Drug overusePrescription Drug Overuse"
+"226","Drug overdose"
+"227","Drug reaction"
+"228","Dry air nasal irritation"
+"232","Ear lacerationcut on the ear"
+"233","Ear swelling"
+"234","Eclampsiahypertensive disorder of pregnancy"
+"235","EcstasyMDMA abuse"
+"236","Ectopic pregnancytubal pregnancy"
+"237","ElapidElapid venomcobra, coral, mamba venom toxicity"
+"239","Encephalitisbrain infection"
+"240","Endometrial cancercancer of the lining of the uterus"
+"249","Inflammation of testicular tubesepididymitis"
+"251","Epidural hematomableeding around brain or spine"
+"252","Epiglottitissevere throat inflammation"
+"255","Erythrasmachronic bacterial skin infection"
+"263","Esophageal varicesdilation of esophageal veins"
+"264","Esophageal webSchatzki's ring, constriction of esophagus"
+"267","Estrogen withdrawalfemale hormone"
+"269","Extremity traumaleg or arm injury"
+"271","Eyelid lacerationskin cut"
+"272","Eyelid swelling"
+"273","Facial lacerationskin cut"
+"274","Facial traumafacial injury"
+"275","Facial swelling"
+"277","False pregnancy"
+"278","Familial cold urticariacold-related hives"
+"282","Fecal impactionrectal blockage from stool"
+"285","Femoral herniagroin hernia"
+"288","Fever of unknown originfever without obvious cause"
+"290","Fibroiduterine muscle tumor"
+"291","Fibromyalgiachronic pain disorder"
+"293","Finger lacerationskin cut"
+"295","Finger swelling"
+"296","Foot lacerationskin cut"
+"297","Foot swelling"
+"298","Foreign bodyobject originating outside the body"
+"301","Foreign body, rectal"
+"302","Fracturebroken bone"
+"303","Functional disorderspsychogenic illness"
+"304","Fungal infections"
+"305","Bacterial vaginosisBV, garnerella vaginalis"
+"307","Gastritisstomach inflammation"
+"311","Gastrointestinal perforationhole in the stomach, intestine"
+"315","Gestational diabetesdiabetes during pregnancy"
+"316","Gestational hypertensionhigh blood pressure in pregnancy"
+"318","Gingivitisinflammation of the gums"
+"324","Hammer toestoe deformity"
+"325","Hand lacerationskin cut"
+"326","Hand swelling"
+"329","Head injury"
+"330","Head trauma"
+"337","Heat stroke"
+"338","Hematocelecollection of blood around testicle"
+"339","Hematomacollection of blood"
+"341","Hemoptysiscoughing blood"
+"342","Hemorrhage of pregnancyvaginal bleeding during pregnancy"
+"344","Hemotympanumblood behind ear drum"
+"350","Herniated discslipped disc, ruptured disc"
+"356","Hip fracturebroken hip"
+"357","Hirschsprung diseasepediatric large intestine paralysis"
+"364","Hypertensionhigh blood pressure"
+"365","Hypertensive emergencyseverely high blood pressure"
+"367","Hyperthyroidismelevated thyroid hormone"
+"368","Hypertrophic cardiomyopathythickened heart muscle"
+"371","Hypocalcemialow blood calcium"
+"378","Hypoxialack of oxygen"
+"379","Nonsteroidal anti-inflammatory drug overdoseMotrin, Advil"
+"380","Immobilitylack of movement"
+"381","Impacted toothtooth that doesn't erupt"
+"382","Impingement syndrome of shoulderbone rubs again tendon, bursa"
+"383","Infection"
+"385","Inflammatory bowel disease"
+"386","Inflammatory conditions"
+"389","Inhalants abusehuffing"
+"391","Insulin overdose"
+"396","Intrahepatic cholestasis of pregnancyliver disorder in pregnancy"
+"398","Intravenous drug abuseIVDA"
+"400","Iron overdose"
+"402","Jet lag"
+"406","Kidney cancertumor"
+"407","Knee lacerationskin cut"
+"408","Knee swelling"
+"410","Lacerationskin cut"
+"412","Laryngeal carcinomathroat cancer"
+"415","Laxative abuse"
+"418","Leg lacerationskin cut"
+"419","Leg swellingleg edema"
+"420","Legg Calve Perthes diseasechildhood hip condition"
+"421","LegionellosisLegionnaires' disease"
+"426","Ligament sprainconnection between two bones"
+"427","Ligament tearconnection between two bones"
+"428","Limb ischemiadecreased blood flow"
+"429","Lip lacerationskin cut"
+"430","Lip swelling"
+"440","Lung cancertumor"
+"444","Magic mushroom ingestionpsilocybin"
+"448","Malignant hyperthermiarare temperature abnormality"
+"452","Marijuana use"
+"454","Maxillary sinus carcinomasinus cancer"
+"463","Meniscus injuryknee cartilage injury"
+"465","Peyote abusemescaline abuse"
+"466","Metastatic neoplasmcancer spread"
+"467","Methamphetamine abuse"
+"470","Miscarriage"
+"473","Molar pregnancygestational trophoblastic disease, pregnancy-related tumor"
+"475","Mosquito bite"
+"478","Mouth lacerationmouth cut"
+"479","Mouth swelling"
+"482","Multiple pregnancytwins, triplets, etc"
+"485","Munchausen syndromefabricated illness"
+"486","Munchausen syndrome by proxyfabricated illness in a dependent"
+"492","Myocardial infarctionheart attack"
+"495","Myositismuscle inflammation or infection"
+"497","Nail avulsiontraumatic removal of nail"
+"498","Nail bruisesubungual hematoma"
+"499","Nail contusionswelling of finger and nail"
+"500","Nail lacerationnail bed cut"
+"502","Narcoticmorphine, heroin abuse"
+"503","Narcoticmorphine, heroin overdose"
+"504","Nasal cancertumor"
+"505","Nasal fracturebroken nose"
+"507","Nasal traumanose injury"
+"508","Nasopharyngeal carcinomatumor"
+"512","Neisseria meningitidis infectionNeisseria meningitidismeningococcus, serious bacterial illness"
+"515","Non venomous snake bite"
+"516","Normal menstruation"
+"517","Norovirus infectionviral diarrhea, Norwalk virus"
+"519","Nursemaid's elbowradial head subluxation"
+"523","Ophthalmoplegiaeye muscle weakness"
+"526","Oral ulcersmouth ulcers"
+"528","Orbital fracturebroken bone near the eye"
+"529","Orbital massgrowth near the eye"
+"530","Orchitisinflammation of the testicles"
+"532","Osteoarthritisbone inflammation"
+"537","Ototoxicityear toxicity"
+"539","Ovarian cystfemale organ fluid collection"
+"540","Ovarian torsiontwisting of the ovary"
+"541","Overdose"
+"542","Overuse syndromeinjury from repetitive activity"
+"543","Paget disease of the nipplerare breast cancer"
+"544","Pancoast syndromeapical lung tumor"
+"546","Pancreatitispancreas inflammation"
+"550","Parasite infection"
+"552","Paronychiainfection around the nail"
+"554","Patellar dislocationknee cap dislocation"
+"555","Patellarknee cap tendon rupture"
+"558","Penis carcinomatumor"
+"560","Perforated septumhole in skin between nostrils"
+"561","Pericarditisheart sac inflammation"
+"562","Periodontitisgum inflammation"
+"563","Periorbital cellulitisinfection around eye"
+"570","Pesticide poisoningorganophosphate poisoning"
+"573","Pheochromocytomaadrenal gland tumor"
+"576","Pituitary tumor"
+"578","Placenta previaplacenta covers cervix"
+"579","Placental abruptionplacenta separation"
+"582","Plantar warthuman papilloma virus infection, foot warts"
+"587","Poisoning"
+"596","Posterior inferior cerebellar artery syndromestroke syndrome"
+"599","Pregnancy"
+"601","Prescription drug abuse"
+"602","Preseptal hematomablood clot in the nose"
+"606","Primary sclerosing cholangitisbile duct disease"
+"614","Puerperal depressiondepression after giving birth"
+"616","Pulmonary edemafluid build-up in the lungs"
+"617","Pulmonary embolismblood clot in the lungs"
+"618","Pulmonary fibrosislung scarring"
+"621","Puncture wound"
+"622","Puncture wound of ankle"
+"623","Puncture wound of arm"
+"624","Puncture wound of ear"
+"625","Puncture wound of eyelid"
+"626","Puncture wound of face"
+"627","Puncture wound of finger"
+"628","Puncture wound of foot"
+"629","Puncture wound of hand"
+"630","Puncture wound of knee"
+"631","Puncture wound, legPuncture wound of leg"
+"632","Puncture wound of lip"
+"633","Puncture wound of mouth"
+"634","Puncture wound of scalp"
+"635","Puncture wound of skin"
+"636","Puncture wound of toe"
+"638","Quaternary syphilislate stage syphilis"
+"639","Radial head fracturebroken elbow bone"
+"640","Radiator fluidethylene glycol poisoning"
+"643","Rectal abscesscollection of pus in the rectum"
+"645","Rectal impactioncollection of pus in the rectumFecal impaction of rectum"
+"648","Rectovaginal fistulainternal rectum to vagina connection"
+"650","Renal arteriovenous malformationAVM, blood vessel abnormality of the kidney"
+"653","Renal failure, chronicongoing kidney failure"
+"655","Renal traumakidney trauma"
+"657","Respiratory failurebreathing failure, ARDS"
+"658","Restless legs syndromenervous system disorder"
+"665","Rib fracturebroken bone"
+"667","Rotator cuff syndromeshoulder injury"
+"668","Rotavirus infectionintestinal viral infection"
+"669","Rubbingisopropyl alcohol overdose"
+"671","Severe Acute Respiratory SyndromeSARS, serious viral pneumonia"
+"672","Scalp lacerationscalp cut"
+"673","Scalp swelling"
+"680","Scoliosiscrooked spine"
+"681","Scorpion sting"
+"682","Scrotal hematomacollection of blood in skin around testicles"
+"683","Seasonal affective disorderintermittent seasonal depression"
+"686","Self-inflicted injury"
+"688","Septal perforationhole in the skin between nostrils"
+"690","Septic hipinfected hip joint"
+"691","Septic knee jointinfected knee joint"
+"694","Serum sicknessabnormal immune system response"
+"705","Situational depression"
+"706","Sjogren's syndromedry eyes and mouth"
+"707","Skin abscesscollection of pus"
+"708","Skin lacerationcut skin"
+"709","Skin swelling"
+"710","Skull fracturebroken bone"
+"711","Slipped capital femoral epiphysisadolescent hip disorder"
+"712","Small bowel lymphomaintestinal lymph node cancer"
+"715","Smoke inhalation"
+"719","Insect bite"
+"720","Spinal abscesscollection of spinal pus"
+"721","Spinal cord injury, acute"
+"722","Splenic infarctiondeath of spleen"
+"724","Sprainstretched, torn ligament"
+"725","Squamous cell cancercommon skin cancer"
+"726","Steroid abuse"
+"727","Steroid use"
+"728","Steven Johnson syndromerare, serious skin disorder"
+"729","Muscle strainpulled muscle"
+"730","Strangulation of genitaliaconstriction of genital blood supply"
+"733","Stress headachetension headache"
+"737","Substance abuse"
+"738","Subungual hematomablood under nail"
+"739","Suicide"
+"740","Supracondylar fractureelbow fracture"
+"742","Symptomatic dermatographismexaggerated skin response to pressure"
+"746","Tarantula biteTarantula Venoms"
+"748","Temporal arteritisinflamed scalp artery"
+"749","Temporal lobe epilepsynon-convulsive seizure"
+"750","Temporomandibular joint syndromeTMJ, jaw joint pain"
+"754","Testicular cancertumor"
+"755","Testicular torsiontwisting of testicle"
+"756","Third cranial nerve disorderdisorder of eye movement"
+"761","Tick paralysistoxin from ticks"
+"764","laceration of toecut skin"
+"765","Toe swelling"
+"768","Tonsillitistonsil infection"
+"773","Toxic shock syndromelife-threatening bacterial infection complication"
+"776","Transverse myelitisspinal cord inflammation"
+"778","Traumatic nerve injury"
+"781","Trichomonas vaginalis infectionvaginal infection"
+"784","Tubo ovarian abscesspelvic abscess"
+"791","Ureaplasma urealyticum infectiongenital infection"
+"798","Uterine ruptureuterine tear during childbirth"
+"800","Vaccination"
+"802","Vaginal cancertumor"
+"803","Vaginal foreign body"
+"805","Vaginitisvaginal infection inflammation"
+"808","Blood vessel headachefamilial basilar artery migraine headache"
+"809","Vascular insufficiency due to peripheral artery diseasePAD, claudication, inadequate blood flow"
+"812","Vertebral artery dissectionneck artery tear"
+"813","Vertebral fracturebroken back or neck bone"
+"814","Vertebral- basilar artery insufficiencyinadequate blood flow to the back of the brainvertebro-basilar insufficiency"
+"815","Vertebral-basilar strokestroke in the back of the brainVertebro basilar insufficiency"
+"817","Vesicovaginal fistulaconnection between the bladder and vagina"
+"820","Rattlesnakepit viper bite"
+"823","Vitiligoloss of skin pigment"
+"824","Vocal cord nodulegrowth on the vocal cords"
+"827","Vulvar squamous cell carcinomaskin cancer on female genitalia"
+"829","WarfarinCoumadin, Jantoven overdose"
+"830","WarfarinCoumadin use"
+"834","Whiplash injuryneck injury"
+"835","White coat hypertensionelevated blood pressure at doctor's office"
+"837","Windshield wiper fluidMethanol poisoning"
+"839","Wood alcoholmethanol poisoning"
+"840","Yeast infectionfungal infection"
+"851","Essential tremorabnormal rhythmic shaking"
+"852","Lymphomalymph node cancer"
+"853","Osgood Schlatter diseasepainful shinbone inflammation"
+"855","Respiratory syncytial virusRSV, pediatric respiratory infection"
+"859","Swine FluH1N1 Influenza"
+"861","Sagittal sinus thrombosisvenous blood clot in the brain"
+"863","Cervical myelopathyspinal cord compression"
+"864","Spinal cord tumor"
+"866","Brain arteriovenous malformationblood vessel abnormality in the brain, AVMArteriovenous malformation of brain"
+"867","Carotid artery stenosisneck artery narrowing"
+"870","Hydrocephalusbrain fluid build-up"
+"872","Central cord syndrometraumatic spine injury"
+"877","Acnepimples"
+"879","Allergic conjunctivitisallergic reaction in the eye"
+"882","Chemical burn"
+"884","Cradle capinfant scalp rash"
+"886","Cryptorchidismundescended testicle"
+"892","Methicillin-resistant Staphylococcus aureusMRSA, type of bacteria"
+"893","Staphylococcus aureustype of bacteria"
+"894","Failure to thrive - childFailure to thrive-childFailure to thrive (child)"
+"895","Hemochromatosisexcess iron disorder"
+"899","Keratosis pilariscommon skin condition"
+"907","Coccidiomycosisvalley fever, fungal infection"
+"908","Meconium aspirationnewborn respiratory problem"
+"913","Mongolian spotsblue birthmark"
+"914","Rheumatic fevercomplication of strep infection"
+"919","Salmon patchcommon birthmark"
+"922","Pepto Bismol or Kaopectate ingestionbismuth"
+"923","Long QT Syndromeinherited heart condition"
+"925","StrokeCVA, cerebrovascular accident"
+"926","Subconjunctival hemorrhageblood covering white part of the eye"
+"929","Myotoniaimpaired muscle relaxation"
+"930","Carbuncle"
+"932","Cat bite"
+"933","Dog bite"
+"935","Hyperosmolar hyperglycemic stateseverely elevated glucose level"
+"936","Strawberry hemangiomablood vessel birthmark"
+"944","Bird fluavian influenza"
+"946","Cubital tunnel syndromenerve compression in the elbow"
+"947","Foot fracturebroken foot"
+"950","Tick bite"
+"952","Broken heart syndromeTakotsubo cardiomyopathy"
+"954","Near drowning"
+"955","Clostridium difficileC. Diff"
+"956","Sea lice bite"
+"957","Broken bonesfractures"
+"961","Sun poisoning"
+"963","Sever's diseasecalcaneal apophysitis, common cause of heel pain"
+"967","Vaginal yeastfungal infection"
+"971","Human papillomavirus infectionHPV"
+"973","Congenital heart diseaseheart defect at birth"
+"974","Lumbar spinal stenosisspinal cord compression"
+"978","Idiopathic thrombocytopenia purpuraITP, low platelets"
+"980","Sudden Cardiac DeathSCD"
+"981","Ventricular tachycardiaVT, dangerous irregular heart beat"
+"983","Frostbitetissue damage from cold"
+"985","Skin blood vessel damageChilblains, pernio"
+"988","Lactose intolerance"
+"992","Graves' diseaseoverproduction of thyroid hormone"
+"1001","Angioedemaswelling of skin, lips, eyes"
+"1002","Hot tub follicullitishair follicle infectionPustular folliculitis"
+"1004","Posterior vitreous detachmentcommon eye abnormality"
+"1009","Double diabeteshybrid diabetes"
+"1011","Birth control pill use"
+"1012","Toe fracture"
+"1013","Finger fracturebroken finger"
+"1014","Hand fracturebroken hand"
+"1015","Scaphoid fracturebroken hand bone"
+"1020","Mitral regurgitationleaking heart valve"
+"1021","Avascular necrosisdeath of bone"
+"1024","ThalassemiaMediterranean anemia, inherited blood disorder"
+"1031","Addisonian crisisacute adrenal crisis"
+"1032","Heart attackacute myocardial infarction, AMI"
+"1034","Medication reaction"
+"1035","Myxedema comaseverely low thyroid hormone"
+"1036","Bed bugs"
+"1038","Early menopausepremature ovarian failure"
+"1040","Mayer Rokitansky Küster Hauser syndromeMRKH, inherited vaginal abnormality"
+"1042","Osteopeniathin bone"
+"1045","Muscle tear"
+"1046","Gastroparesisstomach muscle malfunction"
+"1049","Colon polypslarge intestine tumors"
+"1052","Amaurosis fugaxmomentary vision loss in one eye"
+"1053","Tendon lacerationtendon cut"
+"1054","Foreign body in a wound"
+"1055","Wound infectioncut infection"
+"1059","Spleen injurysplenic rupture"
+"1061","Radiation exposureradiation sickness"
+"1063","Tape worm infection"
+"1067","Basal cell carcinomaskin cancer"
+"1068","Skin tagsacrochordons"
+"1070","Micturition syncopefainting with urination"
+"1072","Epiploic appendagitisinflammation of colon fat"
+"1073","Compression fracturebroken spinal bone"
+"1078","Flea bite"
+"1081","Gilbert's diseaseliver abnormality"
+"1083","Newborn jaundicenewborn skin discoloration"
+"1094","Pallister Killian syndromerare inherited disorder"
+"1095","Post herpetic neuralgianerve pain after shingles"
+"1099","Lewy body dementiacommon type of dementia"
+"1116","Listeriaserious bacterial illness"
+"1118","Shin splintstibial stress syndrome"
+"1119","Sarcomasoft tissue cancer"
+"1121","Bone cancerbone tumor"
+"1124","Mastocytosisurticaria pigmentosa, skin disease"
+"1125","Jellyfish stings"
+"1127","Dyslipidemiaabnormal fat levels in the blood"
+"1128","Hyperlipidemiaelevated blood fat level"
+"1130","Discoid Lupus ErythematosusDLE, autoimmune skin inflammation"
+"1132","Triangular fibrocartilage complex injurywrist injury"
+"1135","Aponeurotic ptosisage-related drooping eyelid"
+"1136","Complex migrainemigraine with neurologic changes"
+"1137","Complex regional pain syndromechronic pain disorder"
+"1141","Small cell lung cancer"
+"1146","Slurred speechdysarthria"
+"1155","Tension headachestress headache"
+"1159","Retinal vein occlusion"
+"1161","Retinal artery occlusion"
+"1163","Lemierre's syndrome"
+"1165","Thrombotic stroke"
+"1166","Varicose veins"
+"1167","Absence seizurespetit mal seizures"
+"1169","Diabetes mellitus type 1elevated blood sugar"
+"1171","H. pylori infectionhelicobacter pylori"
+"1180","Juvenile rheumatoid arthritis"
+"1181","Atherosclerosishardening of the arteries"
+"1183","Seborrheic dermatitis"
+"1185","Skin ulcer"
+"1189","Friction blister"
+"1201","Lumbar spondylosisspine arthritis"
+"1202","Hepatitis B"
+"1203","Hepatitis C"
+"1204","Latex allergy"
+"1205","Vitamin B12 deficiency"
+"1214","ACLanterior cruciate ligament injury"
+"1217","Angiodysplasia of stomachAngiodysplasia of intestines"
+"1220","Neuralgianerve pain"
+"1221","Spider veins"
+"1222","Dandruff"
+"1226","Forearm fracture"
+"1227","Femur fractureupper leg"
+"1232","Knee ligament sprain"
+"1233","Erythema multiforme"
+"1237","Seromafluid build-up"
+"1240","Cyclospora infectionCyclosporiasis"
+"1243","Middle East Respiratory SyndromeMERS"
+"1245","Male pattern hair losshereditary-patterned baldnessAndrogenic alopecia"
+"1255","Focal seizurepartial seizure"
+"1257","Generalized seizure disordergeneralized epilepsy"
+"1259","Peyronie's diseaseabnormal curvature of the penis"
+"1263","Duodenal cancersmall intestine"
+"1269","Essential thrombocythemiaexcessive blood platelets"
+"1277","Extragonadal germ cell tumors"
+"1285","Food allergy"
+"1289","Foot ulcer"
+"1291","Fragile X syndromegenetic disorder"
+"1297","Glomerulonephritiskidney disease"
+"1299","Graves eye diseaseGraves ophthalmopathy"
+"1301","Head injury in childrenNon-accidental traumatic head injury to child"
+"1303","Hemorrhagic strokeCVA, cerebrovascular accident"
+"1311","Hyperkeratosisskin thickening"
+"1315","Lacunar stroke"
+"1319","Large cell lung cancer"
+"1321","Malignant Mesothelioma"
+"1323","Melasmacholoasma"
+"1325","Morton's neuroma"
+"1329","Neuroblastoma"
+"1331","Paget disease of the bonepaget's disease of the bone"
+"1337","Paraphimosis"
+"1345","Post-polio syndrome"
+"1347","Posterior cruciate ligament injuriesPCL injuryRupture of posterior cruciate ligamentSprain of posterior cruciate ligament of knee"
+"1351","Rectocele"
+"1353","Retinitis pigmentosa"
+"1355","Retinoblastomapediatric eye cancer"
+"1359","Shoulder sprain"
+"1361","Squamous cell lung cancer"
+"1365","Tay-Sachs disease"
+"1373","Traumatic hip dislocationtraumatic dislocation of hip"
+"1375","Traveler's diarrheaMontezuma's revenge"
+"1381","Wilms' Tumor"
+"1387","Amyloidosis"
+"1389","Arnold Chiari malformation"
+"1393","Broken jawmandible fracture"
+"1405","Dermatofibroma"
+"1423","Broken legleg fracture"
+"1425","Prediabeteshigh blood sugar"
+"1427","Factor V Leiden Deficiency"
+"1429","Subluxation"
+"1433","Supraventricular tachycardiaSVT"
+"1435","Traumatic brain injury"
+"1441","Lymphadenitis"
+"1445","Stuttering"
+"1457","Greater trochanteric bursitiship bursitis"
+"1465","Onycholysis"
+"1469","Complex partial seizurespsychomotor epilepsy"
+"1479","Blocked tear ductdacryostenosis"
+"1487","Bacterial tracheitis"
+"1491","Oral leukoplakia"
+"1499","Cervical dysplasia"
+"1505","Finger amputation"
+"1517","Cutaneous T cell lymphoma"
+"1523","Breast cyst"
+"1525","Ductal carcinoma in situDCIS, breast cancer"
+"1529","Triple negative breast cancer"
+"1531","Invasive ductal carcinoma"
+"1533","Invasive lobular carcinoma"
+"1537","Failure to thrive - adultfailure to thrive"
+"1540","Factor X Deficiency"
+"1542","Congenital Adrenal HyperplasiaCAH"
+"1544","Necrotizing enterocolitisNEC"
+"1546","Sandhoff disease"
+"",""
+"",""
+"118","Burkitt lymphomalymph node tumor"
+"314","Genital wartsHPV, Human papillomavirus infection"
+"327","Hand foot and mouth diseaseCoxsackie virus"
+"416","Lead overdoselead poisoning"
+"417","Lead poisoningtoxicity"
+"571","Pharyngeal pouchZenker's diverticulum, weakening of the esophageal wall"
+"700","Shoulder joint dislocationdislocated shoulder"
+"780","Trichinella spiralis infectiontrichinosis, parasitic infection from undercooked pork"
+"836","Whooping coughpertussis"
+"875","HIV AIDSHuman Immunodeficiency Virus, Acquired Immune Deficiency SyndromeHuman immunodeficiency virus [HIV] disease"
+"887","Dyslexiareading disorder"
+"889","Enuresisbed wetting"
+"902","Pubic lice"
+"968","Ricketschildhood bone disease"
+"1041","Obesity"
+"1060","Liver injuryliver trauma"
+"1064","Teething"
+"1138","Reflex sympathetic dystrophycomplex pain syndrome"
+"1142","Difficulty swallowingdysphagia"
+"117","Bulimia nervosabinge eating, vomiting"
+"165","Cholelithiasisgallstones"
+"174","Coarctation of aortanarrowing of the aorta"
+"175","Cocaine abuse"
+"193","Corneal foreign bodyobject in the eye"
+"200","Cutaneous larva migransparasitic skin disease"
+"353","Herpes vulvovaginitisviral infection of the vaginaHerpesviral vulvovaginitis"
+"449","Mallet fingerfinger tendon rupture"
+"455","Measlesviral disease with typical rash"
+"468","Methyl alcohol intoxicationmethanol"
+"577","Pityriasis roseainflammatory skin rash"
+"666","Rickettsial infectionstype of bacterial infection"
+"689","Septic arthritisjoint infection"
+"702","Sickle cell crisiscomplication of sickle cell disease"
+"762","Tick borne encephalitisbrain infection"
+"783","Tuberculosis infectionTB"
+"786","Typhoid feversalmonella typhi infection from contaminated food or water"
+"854","Nasal foreign bodyunnatural object in the nose"
+"856","Hodgkin's diseasecancer of the lymph system"
+"901","Body lice"
+"906","Cat scratch feverbacterial infection after cat scratch"
+"960","Sunburn"
+"998","Sudden Infant Death SyndromeSIDS"
+"1076","Mucormycosisfungal infection"
+"1091","Japanese encephalitisviral brain infection"
+"1129","Hemolytic uremic syndromeHUS, red blood cell destruction, kidney disease"
+"1177","Foreign body in ear"
+"1198","Astigmatismvision defect"
+"1281","Familial dysautonomiagenetic disorder"
+"1293","Friedreich's Ataxiagenetic disorder"
+"1307","Excessive hair growthHirsutism"
+"1513","Scurvyvitamin C deficiency"
+"160","Chlamydia trachomatis infectionSTD"
+"171","Chronic pain"
+"230","Dysfunctional uterine bleedingabnormal vaginal bleeding"
+"313","Genital herpesHSV type 2 infection"
+"358","Hordeolumstye of eye"
+"490","Mycoplasma genitaliumsexually transmitted disease"
+"496","Myringitis bullosaear drum infection"
+"511","Neisseria gonorrhea infectionsexually transmitted disease"
+"592","Polyphagiaovereating"
+"603","Priapismpersistent erection"
+"612","Pruritus anianal itching"
+"660","Retropharyngeal abscessthroat abscess"
+"692","Septic shocklow blood pressure from serious blood infection"
+"696","Sexually transmitted diseaseSTD"
+"771","Torticollis, spasmodicneck muscle spasm"
+"794","Urinary tract malformation"
+"871","Cerebrospinal fluid otorrhealeakage of brain fluid from the ear"
+"900","Head lice"
+"911","Pinwormscommon intestinal worm"
+"965","Down syndromecommon genetic disorder"
+"966","Hair lossalopecia"
+"977","Molesnevi"
+"1010","Alopecia areatacircular, irregular hair loss"
+"1027","Pterygiumgrowth on the eye"
+"1062","Marfan syndromerare inherited disease"
+"1140","Golfer's elbowmedial epicondylitis of elbow"
+"1144","Bullous myringitismiddle ear infection"
+"1156","Nearsightednessmyopia"
+"1192","Spina bifida"
+"1195","Chalazion"
+"1231","Finger dislocation"
+"1249","Scleritisinflammation of the eye"
+"1273","Herpanginamouth blisters"
+"1283","Farsightednesshyperopia/hypermetropia"
+"1333","Parathyroid cancer"
+"1349","Presbyopiaaging vision"
+"1379","Tropical sprue"
+"1417","Ichthyosis"
+"1431","Vitamin D deficiency"
+"1449","Tic Disorder"
+"1473","Retinopathy"
+"8","Achilles tendonitis (heel tendon inflammation)"
+"136","Cavernous sinus thrombosishead vein blood clot"
+"229","Dry socketpain after tooth removal"
+"250","Epidural abscessbrain or spine pus collection"
+"588","Poliomyelitispolio"
+"670","Salmonella infectioncommon bacterial intestinal infection"
+"697","Shigellosisbacterial intestinal infection"
+"703","Sickle cell diseasedisease of red blood cells"
+"807","Varicoceletesticular vein enlargement"
+"904","Rocky mountain spotted feverbacterial infection spread by ticks"
+"938","Tourette syndromerepetitive involuntary movements, vocalizations"
+"949","Histoplasmosisfungal infection"
+"1057","Hidradenitis suppurativachronic collections of pus"
+"1131","Livedo reticularispurplish skin discoloration"
+"1196","Eustachian tube dysfunctioninner ear tube"
+"1230","Hip dislocation"
+"1357","Retrobulbar Neuritis"
+"1409","Fibromuscular dysplasiaFMD"
+"46","Anorexia nervosa (eating disorder)"
+"258","Esophageal cyst"
+"292","Filariasiselephantiasis"
+"328","Hantavirus infectionrare, serious viral infection"
+"384","Infectious mononucleosisEpstein Barr virus, ""Mono"""
+"425","Lichen planuschronic skin inflammation"
+"431","Lipomabenign fatty tumor"
+"456","Meckel's diverticulumbulge in small intestine"
+"474","Mononucleosiscommon viral illness"
+"524","Optic neuritisoptic nerve inflammation"
+"531","Mouth canceroropharyngeal cancer"
+"557","Pelvic inflammatory diseasePID, female reproductive organ infection"
+"693","Serotonin syndromesevere medication reaction"
+"770","Toothache"
+"865","Brachial plexus injuryshoulder nerve injury"
+"883","Chicken poxvaricella virus"
+"1039","Carcinoid syndromeflushing, diarrhea"
+"1082","Goodpasture syndromedisease of kidneys and lungs"
+"1153","Lazy eyeamblyopia"
+"1215","Acute myelogenous leukemiaAML"
+"1367","Tear duct infectionDacryocystitis"
+"1437","Testicular hypofunction"
+"1461","Turner syndromegonadal dysgenesis"
+"1471","Meralgia Paresthetica"
+"20","Alcohol ethanol intoxication"
+"106","Brain abscesscollection of pus in the brain"
+"110","Breast fat necrosisdead breast fat"
+"268","Ethanolalcohol"
+"340","Hemophiliainherited bleeding disorder"
+"469","Migrainetype of headache"
+"595","Post-traumatic stress disorderPTSD"
+"717","Social anxiety disordersocial phobia"
+"747","Tarsal tunnel syndromefoot nerve damage"
+"767","Tonsillar cancertumor tongue"
+"774","Toxoplasma infectionToxoplasmosisparasite infection"
+"897","Inhaled foreign bodyin respiratory tract"
+"909","Neurofibromatosisinherited nerve tumors"
+"1193","Mycosis fungoideslymphoma"
+"1279","Fallopian tube cancer"
+"13","AC joint separationacromioclavicular joint separationclosed separation of acromioclavicular joint"
+"73","Back traumainjury"
+"158","Chest traumainjury"
+"270","Eye traumainjury"
+"477","Motor neuron diseaseprogressive nerve disorder"
+"480","Mouth traumainjury"
+"509","Neck traumainjury"
+"581","Plantar fasciitisinflammation of tissue at the bottom of the foot"
+"777","Trauma"
+"857","Autism spectrum disorderASD"
+"972","Erectile dysfunctionED"
+"1213","Mastoiditis"
+"1225","Chronic myelogenous leukemiaCML"
+"1421","Keloidovergrown scar"
+"1515","Beriberithiaminevitamin B1 deficiency"
+"17","Adenovirus infection (virus infection)"
+"32","Amebiasisameba infection"
+"167","Cholesteatomamiddle ear mass"
+"245","Entamoeba histolytica infectionameba infectionInfection due to Entamoeba histolytica"
+"317","Giardiasisgiardia infection"
+"458","Mediastinitisinner chest inflammation"
+"613","Pseudogoutcalcium deposit arthritis"
+"743","Syphilistreponema pallidum"
+"759","Thyroglossal duct cystneck cyst"
+"766","Tongue cancertumor"
+"779","Treponema pallidumsyphilis"
+"1044","Cauliflower earwrestlers ear"
+"1208","Diaper rash"
+"1223","Acute lymphocytic leukemiaALL"
+"1327","Nabothian cyst"
+"1489","Trigger finger"
+"294","Finger pulp infectionfelon"
+"397","Intraspinal abscesscollection of pus in the spine"
+"484","Mumpsviral infection involving salivary glands"
+"568","Peritonsillar abscesscollection of pus around tonsils"
+"620","Pulpitisdental root inflammation"
+"642","Ramsay Hunt syndromeviral infection causing facial weakness"
+"760","Thyroiditisthyroid inflammation"
+"888","Encopresisexcessive fecal leaking"
+"917","Ringworm of the bodytinea corporis"
+"1186","Molluscum contagiosum"
+"1187","Hemangiomablood vessel birthmark"
+"1247","Male infertility"
+"1271","Thyroid cyst"
+"1451","Conduct disorder"
+"1453","Charcot-Marie-Tooth disease"
+"56","Appendicitis"
+"63","Aseptic necrosis of bonebone death and destruction"
+"83","Basilar skull fracturebroken skull"
+"202","Cytomegalovirus infectionCMV viral infection"
+"348","Hereditary hemorrhagic telangiectasiaOsler Weber Rendu syndrome"
+"374","Hypokalemic periodic paralysisinherited muscle weakness and low potassium"
+"405","Keratitisinflammation of cornea"
+"574","Phobiasirrational fear"
+"1098","Heel spur"
+"1113","Pemphigusrare skin disorder"
+"1339","Polyarteritis NodosaPAN"
+"1383","Wrist sprain"
+"23","Alcohol withdrawal syndrome (mild)"
+"191","Contusionbruise, ecchymosis"
+"345","Henoch Schönlein purpurablood vessel inflammation"
+"404","Kawasaki diseasepediatric blood vessel disease"
+"424","Leukemiablood cell cancer"
+"506","Nasal polypsgrowths"
+"701","Sialolithiasissalivary gland stone"
+"757","Thoracic outlet syndromenerve, blood vessel compression"
+"990","Muscular dystrophyinherited muscle disease"
+"1170","Viral exanthemrash from viral infection"
+"1235","Erythema nodosum"
+"139","Celiac diseaseceliac sprue"
+"143","Cerebellar syndromeloss of coordination"
+"181","Common coldupper respiratory infection"
+"352","Herpes stomatitisviral mouth infection"
+"370","Hyphematraumatic blood in eye"
+"422","Leishmaniasisparasitic infection, kala azar"
+"556","PCPphencyclidine abuse"
+"664","Rhinovirus infectioncommon cold"
+"799","Uveitisiritis, eye inflammation"
+"896","Impetigobacterial skin infection"
+"940","Common warts"
+"1023","Iritisinflammation of the iris"
+"1069","Pneumocystis pneumoniaPCP, fungal lung infection"
+"1309","Huntington diseasechorea"
+"1467","Cerebellar Ataxia"
+"442","Lyme diseasebacterial infection from ticks"
+"447","Malariamosquito transmitted illness"
+"534","Osteomyelitisbone infection"
+"979","Thrombotic thrombocytopenia purpuraTTP, rare blood disorderThrombotic thrombocytopenic purpura"
+"1190","Tinea versicolor"
+"1305","Hepatitis A"
+"1363","Takayasu's arteritisGiant cell arteritis of the young"
+"1493","Glossitis"
+"54","Aphthous ulcersmouth stomatitis"
+"103","Botulismbacterial toxin causing muscle weakness"
+"437","Ludwigs anginasevere infection in the floor of the mouth and neck"
+"785","Ear drum rupturetympanic membrane rupture"
+"920","Scabiesskin disease caused by mites"
+"987","Food poisoning"
+"1093","Brucellosisbacterial infection spread from animals"
+"125","Campylobacter infectionintestinal bacterial infection"
+"493","Myocarditisheart muscle inflammation"
+"494","Myopathymuscle disease"
+"663","Rhinosporidiosisfungal nasal infection"
+"924","Coronary artery anomalyheart artery malformation"
+"1016","Clavicle fracturebroken collar bone"
+"1219","Ganglion cyst"
+"145","Cerebral palsymovement disorder"
+"334","Heat cramps"
+"335","Heat exhaustion"
+"1080","Porphyriarare disorder of skin, nervous system"
+"85","Behcets diseasesmall blood vessel inflammation disorder"
+"155","Chagas diseasetrypanosomiasis"
+"443","Lymphangitislymph tissue inflammation"
+"446","Malabsorption syndromeabnormal intestinal digestion"
+"527","Orbital cellulitissoft tissue eye infection"
+"589","Polycystic kidney diseaseinherited kidney disorder"
+"878","Attention deficit hyperactivity disorderADHD"
+"1218","Mesenteric adenitisintestinal lymph node enlargement"
+"1397","Strabismuscrossed eyes"
+"1521","Developmental delay"
+"14","Acute angle closure glaucomaincreased inner eye pressure"
+"433","Liver cancertumor"
+"945","Itchy rash"
+"1191","Uterine cancer"
+"1267","Gallbladder cancer"
+"1295","Gallbladder and bile duct cancerGallbladder cancerbile duct cancer"
+"1395","Conversion disorder"
+"101","Body dysmorphic disorderbody appearance obsession"
+"203","De Quervain's tenosynovitishand tendon inflammation"
+"931","Melanomaskin cancer"
+"1164","Somatization disorderSomatic symptom disorder"
+"1207","Tinnitus"
+"1239","Dupuytren's contracturecontracted palmar fascia"
+"1411","Hypochondriasis"
+"1501","Pemphigoid"
+"1503","Scar"
+"69","Atypical pneumonialung infection"
+"98","Blepharitiseyelid swelling"
+"107","Brain tumorcancer of the brain"
+"462","Meningitisspinal fluid infection"
+"718","Spermatocelesperm-filled epididymal cyst"
+"868","Meningiomabrain tumor"
+"869","Astrocytomabrain tumor"
+"1028","Pingueculagrowth on the eye"
+"1194","Borderline personality disorder"
+"19","Adjustment disorder (poor adjustment to life stressor)"
+"395","Intracranial hemorrhagebleeding in brain"
+"825","Vocal cord paralysisvoice box weakness"
+"1066","Toxic megacolonrapid dilation of the colon"
+"1475","Corneal ulcer"
+"35","Anal cancer"
+"520","Obsessive compulsive disorderOCD, anxiety disorder"
+"881","Teeth grindingbruxism"
+"1535","Dystonia"
+"593","Post concussive syndromesymptoms after a concussion"
+"822","Viral infections"
+"994","Amyotrophic lateral sclerosisALS, Lou Gehrig's disease"
+"995","Lou Gehrig's diseaseamyotrophic lateral sclerosis, ALS"
+"584","Pleuritisinflammation of the lung's lining, pleurisy"
+"753","Tension pneumothoraxdangerous lung collapse"
+"948","Ankle fracturebroken ankle"
+"1143","Polymyositismuscle inflammation"
+"1261","Mycoplasma infectionbacteria"
+"1483","Aphakia"
+"190","Contact urticariahives"
+"346","Hepatic abscesscollection of pus in the liver"
+"413","Laryngitisvoice box inflammation"
+"432","Liver abscesscollection of pus"
+"796","Urticariahives"
+"1037","Athlete's foottinea pedis"
+"1188","Jock itchtinea cruris"
+"257","Esophageal cancertumor"
+"838","Wolff Parkinson White syndromeWPW, additional electrical pathway in the heart"
+"941","Transient global amnesiasudden period of short-term memory loss"
+"1415","Hypoparathyroidism"
+"964","Panhypopituitarismpituitary gland malfunction"
+"42","Ankylosing spondylitis (severe spine arthritis)"
+"134","Spinal cord compressioncauda equina syndrome"
+"149","Cervical cancertumor"
+"178","Colitislarge intestine inflammation"
+"308","Gastroenteritisintestinal infection"
+"1184","Actinic keratosisAK, skin growth"
+"127","Candida albicansyeast infection"
+"209","Dental abscesstooth infection"
+"451","Malnutrition"
+"769","Tooth infection"
+"915","Rhinitisnasal inflammation"
+"1047","Scalded skin syndromeblistering skin infection"
+"78","Baker's cystfluid sac behind knee"
+"199","Cushing diseaseexcessive pituitary gland hormones"
+"647","Rectal ulcer"
+"910","Night terrorsnightmares"
+"997","Sarcoidosisinflammatory disease"
+"322","Guillain Barre syndromeascending muscle weakness"
+"989","Raynaud's diseaseblood vessel constriction"
+"1134","Miller Fisher Syndromerare nerve disease"
+"1182","Seborrheic keratosis"
+"120","Burns"
+"279","Fat embolismblood clot from fat"
+"441","Lupussystemic lupus erythematosus, SLE"
+"564","Peripheral nerve transectionnerve injury"
+"565","Peripheral neuropathynerve damage"
+"849","Pilonidal cystfluid filled sac on tailbone"
+"1147","Diabetic neuropathynerve damage"
+"1168","Rosacea"
+"1179","Benign neoplasm"
+"76","Bacterial overgrowth of small intestineBacterial Overgrowth Syndrome"
+"369","Hyperventilationrapid breathing"
+"1084","Ankle sprain"
+"1495","Anal fistula"
+"148","Cerumen impactionear wax buildup"
+"464","Menopauseend of menstruation and fertility"
+"654","Renal infarctkidney damage from an area of blocked blood flow"
+"744","Systemic sclerosisscleroderma, progressive soft tissue hardening"
+"801","Vaginal atrophyatrophic vaginitis"
+"1000","Boilpus-filled lump"
+"1033","Sclerodermaprogressive hardening of soft tissue"
+"414","Tennis elbowlateral epicondylitis"
+"1026","Hemolytic anemiared blood cell destruction disorder"
+"1211","Muscle and ligament inflammationenthesopathy"
+"246","Hypothermiaextreme cold exposure"
+"953","Whipple's diseaserare bacterial infection of the small intestine"
+"984","Trench footimmersion foot"
+"1007","Thyroid cancerneck gland cancer"
+"1079","Ingrown nailonychocryptosis"
+"1369","Thrombophlebitissuperficial"
+"36","Anal fissure (tear)"
+"439","Lung abscesscollection of pus"
+"605","Insomniadifficulty sleeping"
+"1403","Delusional disorder"
+"256","Esophageal achalasiaswallowing disease"
+"535","Ear infection, outerotitis externa"
+"975","Stomach cancergastric cancer"
+"1056","Blood vessel injury"
+"108","Breast abscesscollection of pus in the breast"
+"453","Mastitisbreast infection inflammation"
+"792","Urethritisinfection of urethra"
+"1176","Nasal septum deviation"
+"55","Aplastic anemiabone marrow failure"
+"351","Herpes simplex infectionviral infection"
+"873","Cerebral aneurysmbrain artery dilation"
+"184","Concussion"
+"569","Personality disorderunhealthy patterns of thinking and behavior"
+"927","Sleep apneachronic sleep disruption"
+"1265","Small bowel cancersmall intestine"
+"93","Bipolar disordermanic depressive disorder"
+"1149","Dislocated lenseye disorder"
+"1150","Dry eye syndromeeye disorder"
+"1152","Endophthalmitiseye disorder"
+"488","Myasthenia gravisautoimmune disease of the nerves, muscles"
+"1443","Drug withdrawal syndrome"
+"676","Schizoaffective disorderfeatures of schizophrenia and mood disorder"
+"1210","Degenerative disc disease"
+"248","Epidermal cyst"
+"336","Heat rash"
+"684","Sebaceous cystsac under the skin"
+"259","Esophageal foreign body"
+"1154","Lymphedemalymphatic obstruction"
+"126","Cancertumor"
+"1275","Ewing's sarcomacancer"
+"1527","Missed abortion"
+"215","Diabetic ketoacidosisDKA, a complication of poorly controlled diabetes"
+"283","Fecal incontinenceloss of bowel control"
+"30","Altered mental statusconfusion"
+"221","Dissecting aortic aneurysmtearing and dilation of the aorta"
+"810","Vasculitisinflammation of the arteries"
+"545","Pancreatic cancertumor"
+"99","Blood loss"
+"659","Retroperitoneal hemorrhageflank bleeding"
+"862","Cervical spine stenosisnarrowing of spinal canal"
+"553","Parotitissalivary gland inflammation"
+"276","Fallen archesflat feet, pes planus"
+"323","Bunion of big toehallux valgus"
+"1097","Flat feetpes planus"
+"75","Bacterial infection"
+"423","Leptospirosisbacterial infection"
+"1092","Tularemiabacterial infection"
+"1199","Phimosis"
+"993","EmphysemaCOPD, lung disease"
+"25","Alcoholism"
+"44","Anorectal abscess(perirectal) abscess"
+"646","Rectal prolapserectal protrusion"
+"27","Allergic rhinitis (allergic reaction in the nose)"
+"483","Multiple sclerosisMS"
+"536","Ear infection, middle earotitis media"
+"735","Subarachnoid hemorrhagebrain bleeding"
+"1139","Horner's syndromedisruption of facial nerve function"
+"62","Aseptic joint effusionfluid in a jointEffusion of joint"
+"731","Streptococcus infectionstrep throat bacteria"
+"88","Benign positional vertigosensation of spinning"
+"461","Meniere's diseasedizziness and vertigo"
+"591","Polycythemia veraincreased number of red blood cells"
+"244","Enlarged lymph nodeslymphadenopathy"
+"751","Tendonitistendon inflammation"
+"752","Tenosynovitistendon sheath inflammation"
+"1106","Synovitisinflammation of joint lining"
+"222","Disseminated intravascular coagulationDIC, abnormality of blood clotting"
+"320","Goiterenlarged thyroid"
+"393","Intestinal ischemiadecreased intestinal blood flow"
+"782","Trigeminal neuralgiafacial nerve pain"
+"649","Reiter syndrometype of joint inflammation"
+"916","Ringworm of the scalptinea capitis"
+"1112","Hepatic encephalopathyconfusion from liver failure"
+"1371","Toenail fungusOnychomycosis"
+"300","Foreign body in the eye"
+"548","Panic disorder"
+"611","Prostatitisprostate inflammation"
+"898","Jaundiceyellow skin color"
+"991","Diverticulosisweakening of the large intestine wall"
+"361","Hydrocelefluid collection near the testicle"
+"572","Pharyngitisthroat infection"
+"661","Rhabdomyolysissevere muscle breakdown"
+"934","Muscle spasmcharley horse"
+"147","Cerebrospinal fluid rhinorrhealeakage of brain fluid from the nose"
+"133","Carpal tunnel syndromewrist nerve compression"
+"309","Gastroesophageal refluxGERD, heartburn"
+"1043","Hyperparathyroidismelevated parathyroid hormone levels"
+"1051","Methemoglobinemiablood disorder"
+"1228","Lower leg fracturetibia, fibula"
+"138","Cavitytooth caries"
+"87","Bell's palsyfacial muscle weakness"
+"347","Hepatitisliver inflammation"
+"1100","Facial nerve paralysis"
+"1019","Mitral stenosistight heart valve"
+"206","Delirium tremensDTs, severe alcohol withdrawal"
+"394","Intestinal volvulustwisting of intestine"
+"826","Volvulustwisted intestine"
+"842","Zenker's diverticulumpharyngeal pouch, weakening of the esophageal wall"
+"677","Schizophreniachronic impaired reality perception"
+"942","Rash"
+"284","Femoral artery aneurysmdilation of leg artery"
+"450","Mallory Weiss syndromeesophageal tear"
+"177","Colicprolonged infant crying episodes"
+"1102","Macular degenerationchronic eye disease"
+"12","Acoustic neuroma(ear nerve tumor)"
+"1133","Multiple myelomablood cancer"
+"18","Frozen shoulder (adhesive capsulitis of shoulder)"
+"890","Psoriasisscaly skin disease"
+"1096","Psoriatic arthritisjoint pain and stiffness"
+"186","Conjunctivitispink eye"
+"97","Bleeding tendencybleeding disorder"
+"832","Wegener's granulomatosisgranulomatosis with polyangiitis,  blood vessel disease"
+"858","Polymyalgia rheumaticaPMR, muscle and joint disorder"
+"1439","Von Willebrand's disease"
+"1317","Langerhans cell histiocytosisHistiocytosis X"
+"289","Fibrocystic breastsbreast lumpiness"
+"195","Costochondritischest wall inflammation"
+"445","Major depressive disordersevere depression"
+"514","Neurogenic bladderbladder paralysis"
+"538","Ovarian cancerfemale organ cancer"
+"732","Stress"
+"392","Interstitial cystitisbladder inflammation"
+"522","Onchocerciasisriver blindness"
+"615","Puerperal psychosisloss of contact with reality after birth"
+"736","Subdural hematomableeding on brain"
+"797","Uterine prolapseuterine vaginal protrusion"
+"1511","Night blindnessnyctalopia"
+"154","Cervicitisinflammation of the lower uterus"
+"242","Endometritisinflammation of the uterus"
+"1224","Chronic lymphocytic leukemiaCLL"
+"590","Polycystic ovarian syndromePCOS, female hormonal disorder"
+"238","Empyemacollection of pus in chest"
+"510","Necrotizing fasciitislife-threatening infection"
+"180","Colon cancerlarge intestine tumor"
+"343","Hemorrhoidenlarged rectal veins"
+"388","Inguinal herniagroin hernia"
+"723","Spondylolisthesisslipped back bone"
+"360","Humerus fracturebroken upper arm"
+"1115","Ventral herniabulging of the abdominal wall"
+"745","Tachycardiafast heart rate"
+"876","Endocarditisheart valve infection"
+"951","Q feverflu-like bacterial illness"
+"1017","Valvular heart diseaseabnormal heart valves"
+"1050","Loffler's syndromepulmonary eosinophilia, lung inflammation"
+"113","Bronchiectasisbronchial tube inflammatory damage"
+"903","Wilsons diseasecopper accumulation in tissues"
+"45","Anorexia(eating disorder)"
+"939","Umbilical herniabelly button hernia"
+"216","Diffuse esophageal spasmpainful contractions of the esophagus"
+"260","Esophageal rupturetear in esophagus"
+"261","Esophageal spasmpainful muscle contraction"
+"1253","Chondromalaciacartilage damage"
+"163","Cholecystitisinflammation of the gallbladder"
+"387","Influenzaseasonal flu"
+"1006","Fluinfluenza"
+"162","Cholangitisinflammation of the bile ducts"
+"679","Sclerosing cholangitisprogressive bile duct disease "
+"641","Increased pressure in the skullraised intracranial pressure"
+"699","Shocksevere low blood pressure"
+"874","Pseudotumor cerebriincreased pressure in the skull"
+"1206","Encephalopathy"
+"95","Bladder cancer"
+"96","Bladder stone, urinary"
+"1114","Diabetes insipidusexcessive water loss from the kidneys"
+"644","Rectal cancertumor"
+"675","Schistosomiasisparasite infection"
+"1003","Detached retinaretinal detachment"
+"1108","Diabetic retinopathydiabetic eye disease"
+"1385","Yaws"
+"1197","Pseudomonas infection"
+"1212","Klebsiella infection"
+"678","Sciaticalower back nerve irritation"
+"68","Atrioventricular node conduction blockheart block"
+"698","Shinglesherpes zoster"
+"793","Bladder infectioncystitis, UTI, urinary tract infection"
+"332","Hearing loss"
+"704","Sinusitissinus infection"
+"828","Waldenström macroglobulinemiablood cell disease"
+"21","Alcohol ethanol abuse"
+"1022","Cataractsclouding of the eye lens"
+"253","Nose bleedepistaxis"
+"481","Mucocutaneous leishmaniasisparasitic infection"
+"525","Oral candidiasisthrush, oral yeast"
+"763","Tineafungal skin infection"
+"1065","Rabiesdeadly viral illness transmitted by animals"
+"1148","Diabetic nephropathydiabetes and kidney disease"
+"1103","Pyomyositismuscle infection"
+"1029","Pernicious anemiavitamin deficiency blood disorder"
+"674","Scarlet feverpost strep inflammation"
+"818","Vestibular neuronitislabyrinthitis, vertigo"
+"821","Viral hemorrhagic feversEbola, Lassa"
+"841","Yellow feverviral hemorrhagic fever"
+"860","Fifth diseaseerythema infectiosum, viral illness"
+"905","Erysipelasbacterial skin infection"
+"918","RubellaGerman measles"
+"937","Tetanuslockjaw"
+"1539","Ebola virushemorrhagic fever"
+"131","Carotid artery dissectionneck artery tear"
+"1229","Elbow dislocation"
+"166","Choleraintestinal bacterial infection"
+"409","Labyrinthitisdizziness and vertigo"
+"819","Vibrio parahaemolyticus infectionbacterial infection from shellfish"
+"476","Motion sickness"
+"1399","Decompression sicknessbends, caisson's disease"
+"262","Esophageal stricturenarrowing of the esophagus"
+"82","Basilar artery migraineheadache"
+"331","Headache"
+"401","Irritable bowel syndromeIBS, chronic intestinal pain and cramping"
+"958","Ascitesfluid in the abdomen"
+"1209","Low back painlumbago"
+"1071","Cough syncopefainting while coughing"
+"1497","Urethral stricture"
+"1178","Incisional hernia"
+"1145","Chronic venous insufficiencyweakened leg veins"
+"306","Gastric ulcerstomach ulcer"
+"153","Cervical spondylosisneck arthritis"
+"207","Dementiadecline in mental ability"
+"1455","Neutropenia"
+"790","Upper respiratory tract infectionURI, common cold"
+"885","Croupupper airway inflammation"
+"619","Pulmonary hypertensionhigh blood pressure in the lungs"
+"372","Hypoglycemialow blood sugar"
+"1157","Pneumoconiosislung disease"
+"1151","Dysthymiadepression, dysthymic disorder"
+"716","Smokingtobacco use disorder"
+"513","Kidney stonenephrolithiasis"
+"212","Depressionexcessive sadness"
+"604","Primary affective disorderdepression"
+"241","Endometriosisuterine tissue outside the uterus"
+"567","Peritonitisabdominal cavity inflammation"
+"1251","Abdominal adhesionsscar tissue"
+"1074","Anthrax"
+"286","Fetal alcohol syndrome"
+"982","Cardiac arrestheart stops"
+"637","Pyelonephritiskidney infection"
+"1509","Hydronephrosis"
+"472","Mittelschmerzovulation pain"
+"600","Premenstrual syndromePMS"
+"607","Primary dysmenorrheapainful menstruation"
+"685","Secondary dysmenorrheapainful menstruation"
+"734","Stress incontinenceunintentional urination with cough or sneeze"
+"1241","Premenstrual dysphoric disorderPMDD"
+"436","Low plateletsthrombocytopenia"
+"758","Thrombocytopenialow platelet count"
+"651","Renal artery stenosiskidney artery narrowing"
+"1287","Foot sprain"
+"321","Gouturic acid crystals in the joint causing inflammation"
+"594","Post nasal drip"
+"281","Febrile seizureconvulsion in child with a fever"
+"580","Plaguebubonic plague, bacteria yersinia infection"
+"102","Bone metastasescancer spread to bone"
+"1200","Thoracic spondylosisspine arthritis"
+"501","Narcolepsyuncontrollable sleeping"
+"11","Acidosis (excessive acid in the body)"
+"533","Osteochondritis dissecansjoint disorder"
+"816","Vertigospinning sensation"
+"597","Postural hypotensionlow blood pressure after standing"
+"547","Pancreas inflammationpancreatitis, chronic"
+"986","Gangrenedeath of body tissue"
+"187","Constipation"
+"1234","Thoracic spine stenosis"
+"662","Rheumatoid arthritistype of chronic joint inflammation"
+"411","Bowel obstructionintestinal blockage"
+"59","Arrhythmiaabnormal heart rhythm"
+"129","Cardiac arrhythmiaabnormal heart rate"
+"333","Heart arrhythmiaabnormal heart rhythm"
+"1","Abdominal aortic aneurysm(enlarged major blood vessel)"
+"319","Glaucomaelevated eye pressure"
+"687","Sepsisserious blood infection"
+"169","Chronic liver disease"
+"65","Asthma"
+"112","Bronchial asthma"
+"1126","Biliary colicgallbladder pain"
+"1111","Aspiration pneumonialung inflammation or infection"
+"652","Renal failure, acutesudden kidney failure"
+"999","Folliculitishair follicle infection"
+"50","Anxiety"
+"51","Anxiety disordergeneralized anxiety disorderGAD"
+"891","Asperger's syndromeautism spectrum disorder"
+"247","Hyperthermiaextreme heat exposure"
+"280","Febrilefever illness"
+"287","Feverelevated temperature"
+"1519","Cardiomegalyenlarged heart"
+"551","Parkinson's diseasemovement disorder"
+"656","Renal vein thrombosiskidney vein clot"
+"921","Atrial flutterirregular heart rate"
+"788","Ulcerative colitislarge intestine inflammation"
+"969","Alzheimer's diseasedementia"
+"376","Hypotensionlow blood pressure"
+"434","Low blood pressurehypotension"
+"362","Hyperemesis gravidarumsevere vomiting in pregnancy"
+"1025","Iron deficiency anemialow red blood cell count"
+"399","Intussusceptiontelescoping intestine"
+"549","Paralytic Ileusintestinal paralysis"
+"962","Cystic fibrosisinherited disease of lungs, digestive system"
+"943","Osteoporosisextremely thin bone"
+"363","Hyperkalemiaelevated potassium level"
+"170","Chronic obstructive pulmonary diseaseCOPD, emphysema"
+"130","Cardiomyopathyweakened heart"
+"29","Confusion (altered mental status)"
+"1216","Psychosis"
+"575","Pickwickian syndromesevere obesity"
+"566","Peripheral vascular diseaseblocked blood vessels"
+"310","Gastrointestinal bleedingstomach, intestine bleeding"
+"1018","Aortic regurgitationleaking heart valve"
+"403","Kaposi Sarcomatype of cancer"
+"609","Prostate cancermale anatomy cancer"
+"741","Swimmer's itchcercarial dermatitis"
+"912","Reyes syndromerare liver and brain swelling"
+"1058","High cholesterolhypercholesteremia"
+"1335","PhenylketonuriaPKU"
+"115","Bronchitisbronchial tube infection"
+"775","Transient ischemic attackTIA, reversible stroke"
+"80","Barrett's esophagusesophagus inflammation"
+"265","Esophagitisesophageal inflammation"
+"586","Pneumothoraxcollapse of lung"
+"1077","Interstitial lung diseasechronic scarring of the lung"
+"1548","Atelectasis"
+"795","Urine retentioninability to urinate"
+"471","Mitral valve prolapseabnormal heart valve"
+"349","Hernia"
+"354","Hiatal herniastomach pushes through diaphragm"
+"848","Seizureabnormal brain electrical activity"
+"583","Pleural effusionabnormal chest fluid"
+"231","E. coli infectionEscherichia coli, bacterial infection"
+"811","Vasovagal syncopefainting"
+"1507","Ehlers-Danlos syndrome"
+"772","Preeclampsiatoxemia of pregnancy"
+"377","Hypothyroidismlow thyroid hormone"
+"105","Bradycardiaslow heart rate"
+"39","Anemia (low red blood cell count)"
+"608","Prinzmetal anginaheart artery spasm"
+"1463","Pancytopenia"
+"375","Hyponatremialow blood sodium"
+"1030","Addison's diseaseadrenal insufficiency"
+"224","Dressler syndromeheart sac inflammation following heart attack or heart surgery"
+"789","Unstable anginapre heart attack chest pain"
+"585","Pneumonialung infection"
+"208","Dengue fevertropical mosquito borne illness"
+"491","Myelodysplastic syndromebone marrow failure"
+"714","SmallpoxVariola virus infection"
+"1090","Chikungunyaviral illness from mosquitoes"
+"205","Dehydration"
+"373","Hypokalemialow blood potassium"
+"833","West Nile virus infectionmosquito-transmitted illness"
+"67","Atrial fibrillationirregular heart rate"
+"1075","Hypersensitivity pneumonitisallergic lung disease"
+"185","Congestive heart failureCHF"
+"1008","Coronary artery diseaseCAD, heart disease"
+"266","Essential hypertensionhigh blood pressure"
+"1158","Premature ejaculation"

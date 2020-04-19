@@ -1,0 +1,111 @@
+"_id","diagnose"
+"5","ACE inhibitor induced coughblood pressure medication side effectDrug-induced coughDrug reaction: ACE inhibitor"
+"14","Acute angle closure glaucomaincreased inner eye pressure"
+"25","Alcoholism"
+"26","Allergic reaction"
+"71","Autoimmune disease"
+"82","Basilar artery migraineheadache"
+"85","Behcets diseasesmall blood vessel inflammation disorder"
+"98","Blepharitiseyelid swelling"
+"107","Brain tumorcancer of the brain"
+"136","Cavernous sinus thrombosishead vein blood clot"
+"144","Cerebral contusionbruise of brain"
+"146","Cerebral vascular accidentstroke"
+"162","Cholangitisinflammation of the bile ducts"
+"163","Cholecystitisinflammation of the gallbladder"
+"164","Choledocholithiasisstone in bile duct"
+"165","Cholelithiasisgallstones"
+"172","Cirrhosisliver failure and scarring"
+"186","Conjunctivitispink eye"
+"192","Corneal abrasionscrape on eye"
+"193","Corneal foreign bodyobject in the eye"
+"213","Diabeteshigh blood sugar"
+"214","Diabetes mellitus type 2elevated blood sugar"
+"300","Foreign body in the eye"
+"319","Glaucomaelevated eye pressure"
+"330","Head trauma"
+"347","Hepatitisliver inflammation"
+"358","Hordeolumstye of eye"
+"370","Hyphematraumatic blood in eye"
+"405","Keratitisinflammation of cornea"
+"424","Leukemiablood cell cancer"
+"447","Malariamosquito transmitted illness"
+"454","Maxillary sinus carcinomasinus cancer"
+"468","Methyl alcohol intoxicationmethanol"
+"469","Migrainetype of headache"
+"483","Multiple sclerosisMS"
+"508","Nasopharyngeal carcinomatumor"
+"523","Ophthalmoplegiaeye muscle weakness"
+"524","Optic neuritisoptic nerve inflammation"
+"527","Orbital cellulitissoft tissue eye infection"
+"528","Orbital fracturebroken bone near the eye"
+"529","Orbital massgrowth near the eye"
+"545","Pancreatic cancertumor"
+"563","Periorbital cellulitisinfection around eye"
+"576","Pituitary tumor"
+"606","Primary sclerosing cholangitisbile duct disease"
+"638","Quaternary syphilislate stage syphilis"
+"641","Increased pressure in the skullraised intracranial pressure"
+"679","Sclerosing cholangitisprogressive bile duct disease "
+"704","Sinusitissinus infection"
+"728","Steven Johnson syndromerare, serious skin disorder"
+"743","Syphilistreponema pallidum"
+"748","Temporal arteritisinflamed scalp artery"
+"756","Third cranial nerve disorderdisorder of eye movement"
+"774","Toxoplasma infectionToxoplasmosisparasite infection"
+"775","Transient ischemic attackTIA, reversible stroke"
+"777","Trauma"
+"799","Uveitisiritis, eye inflammation"
+"814","Vertebral- basilar artery insufficiencyinadequate blood flow to the back of the brainvertebro-basilar insufficiency"
+"829","WarfarinCoumadin, Jantoven overdose"
+"848","Seizureabnormal brain electrical activity"
+"852","Lymphomalymph node cancer"
+"867","Carotid artery stenosisneck artery narrowing"
+"870","Hydrocephalusbrain fluid build-up"
+"873","Cerebral aneurysmbrain artery dilation"
+"874","Pseudotumor cerebriincreased pressure in the skull"
+"879","Allergic conjunctivitisallergic reaction in the eye"
+"895","Hemochromatosisexcess iron disorder"
+"903","Wilsons diseasecopper accumulation in tissues"
+"918","RubellaGerman measles"
+"926","Subconjunctival hemorrhageblood covering white part of the eye"
+"951","Q feverflu-like bacterial illness"
+"992","Graves' diseaseoverproduction of thyroid hormone"
+"1001","Angioedemaswelling of skin, lips, eyes"
+"1003","Detached retinaretinal detachment"
+"1004","Posterior vitreous detachmentcommon eye abnormality"
+"1022","Cataractsclouding of the eye lens"
+"1026","Hemolytic anemiared blood cell destruction disorder"
+"1027","Pterygiumgrowth on the eye"
+"1052","Amaurosis fugaxmomentary vision loss in one eye"
+"1081","Gilbert's diseaseliver abnormality"
+"1083","Newborn jaundicenewborn skin discoloration"
+"1102","Macular degenerationchronic eye disease"
+"1108","Diabetic retinopathydiabetic eye disease"
+"1134","Miller Fisher Syndromerare nerve disease"
+"1136","Complex migrainemigraine with neurologic changes"
+"1249","Scleritisinflammation of the eye"
+"1255","Focal seizurepartial seizure"
+"1267","Gallbladder cancer"
+"1283","Farsightednesshyperopia/hypermetropia"
+"1295","Gallbladder and bile duct cancerGallbladder cancerbile duct cancer"
+"1299","Graves eye diseaseGraves ophthalmopathy"
+"1303","Hemorrhagic strokeCVA, cerebrovascular accident"
+"1305","Hepatitis A"
+"1315","Lacunar stroke"
+"1349","Presbyopiaaging vision"
+"1353","Retinitis pigmentosa"
+"1355","Retinoblastomapediatric eye cancer"
+"1357","Retrobulbar Neuritis"
+"1363","Takayasu's arteritisGiant cell arteritis of the young"
+"1365","Tay-Sachs disease"
+"1367","Tear duct infectionDacryocystitis"
+"1395","Conversion disorder"
+"1397","Strabismuscrossed eyes"
+"1461","Turner syndromegonadal dysgenesis"
+"1473","Retinopathy"
+"1475","Corneal ulcer"
+"1479","Blocked tear ductdacryostenosis"
+"1483","Aphakia"
+"1511","Night blindnessnyctalopia"
+"sym",""
